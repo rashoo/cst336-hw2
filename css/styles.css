@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+
+img{
+    border-radius: 30px;
+}
+
+body{
+    background-color: green;
+    color: yellow;
+}
+
+#main{
+    font-family: 'Baloo Bhaina', cursive;
+}
+
+    
+input{
+        background-color: Transparent;
+        outline:none; 
+        font-weight:bold;
+        color:yellow;
+        cursor:pointer;
+    }
+    
+footer{
+        font-family: "Times New Roman", Georgia, Serif;
+        margin:0 auto;
+        padding-top:10px;
+}
